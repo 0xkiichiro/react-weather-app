@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/0xkiichiro.github.io/react-weather-app/static/css/main.8a7b93f9.css",
+    "main.js": "/0xkiichiro.github.io/react-weather-app/static/js/main.c143b996.js",
+    "static/js/787.b30f2593.chunk.js": "/0xkiichiro.github.io/react-weather-app/static/js/787.b30f2593.chunk.js",
+    "index.html": "/0xkiichiro.github.io/react-weather-app/index.html",
+    "main.8a7b93f9.css.map": "/0xkiichiro.github.io/react-weather-app/static/css/main.8a7b93f9.css.map",
+    "main.c143b996.js.map": "/0xkiichiro.github.io/react-weather-app/static/js/main.c143b996.js.map",
+    "787.b30f2593.chunk.js.map": "/0xkiichiro.github.io/react-weather-app/static/js/787.b30f2593.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8a7b93f9.css",
+    "static/js/main.c143b996.js"
+  ]
+}
